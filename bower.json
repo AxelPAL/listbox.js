@@ -1,0 +1,23 @@
+{
+  "name": "listbox.js",
+  "version": "0.2.0",
+  "homepage": "https://github.com/AxelPAL/listbox.js",
+  "authors": [
+    "Igor  Kalnitsky <igor@kalnitsky.org>"
+  ],
+  "description": "Simple jQuery plugin that provides a more powerful alternative to the standard <select> tag",
+  "main": "listbox.js",
+  "keywords": [
+    "jquery",
+    "select",
+    "listbox"
+  ],
+  "license": "BSD 3-clause",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
